@@ -5,7 +5,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
    * A collection of awesome low-light image enhancement methods. Papers, codes and datasets are maintained.
 
 ## 2 Related Work
-### 3.1 Datasets
+### 2.1 Datasets
 ------------
 * VV [[download](https://sites.google.com/site/vonikakis/datasets)]
 * SID [[download](https://cchen156.github.io/SID.html)]
@@ -19,7 +19,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 * ExDark [[download](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset)]
 * MIT-Adobe FiveK [[download](https://data.csail.mit.edu/graphics/fivek/)]
 
-### 3.2 Papers
+### 2.2 Papers
 ------------
 ### 2020
 * Atoum et al, Color-wise Attention Network for Low-light Image Enhancement. [[paper](https://arxiv.org/pdf/1911.08681.pdf)][code]
